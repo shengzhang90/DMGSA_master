@@ -1,5 +1,5 @@
 # DMGSA-for-airway-medical-image-segmentation
-This is an release code of the paper "Dynamical Multi-order Responses and Global Semantic-Infused Adversarial Learning: A Robust Airway Segmentation Method".
+This is a release code of the paper "Dynamical Multi-order Responses and Global Semantic-Infused Adversarial Learning: A Robust Airway Segmentation Method".
 
 ## Updates
 **29/10/2023**:  
